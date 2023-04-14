@@ -73,7 +73,7 @@ em+strong
 ___aaa___  
 
 # Images 画像 @ 先頭の!で画像と認識される。大きさ指定はimgタグ
-![alt]([画像URL]([https://github.com/firesign2023](https://github.com/firesign2023/Progate/blob/main/top.png)))
+![alt]([画像URL](https://github.com/firesign2023/Progate/blob/main/top.png))
 ![代替文字列](URL "タイトル")
 
 <img src="[attach:cat.jpg]([https://github.com/firesign2023](https://github.com/))" alt="attach:cat" title="attach:cat" width="200" height="200">
