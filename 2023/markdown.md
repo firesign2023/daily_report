@@ -50,6 +50,27 @@ ___
 2. bbb
 3. ccc
 
+# Link リンク @ [表示文字](URL)でリンクに変換
+[Google](https://www.google.co.jp/)
+
+# 外部参照リンク
+URLが長くて読みづらくなる場合や同じリンクを何度も使用する場合は、リンク先への参照を定義できます。
+[Yahooを見る][Yahoo]
+
+[Yahoo]: http://www.yahoo.co.jp
+
+# 強調
+em  
+*aaa*  
+_aaa_  
+  
+strong  
+**aaa**  
+__aaa__  
+
+em+strong  
+***aaa***  
+___aaa___  
 
 # Images 画像 @ 先頭の!で画像と認識される。大きさ指定はimgタグ
 ![alt]([画像URL](https://github.com/firesign2023))
